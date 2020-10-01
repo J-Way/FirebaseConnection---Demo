@@ -1,0 +1,247 @@
+{
+    "POINTS": {
+        "HALLWAY_POINTS": [
+            {
+                "POINT_NAME": "hallTopLeft",
+                "POINT_X": "width * .37f",
+                "POINT_y": "height * .30f"
+            },
+            {
+                "POINT_NAME": "hallMidLeftCenter",
+                "POINT_X": "width * .37f",
+                "POINT_y": "height * .53f"
+            },
+            {
+                "POINT_NAME": "hallE207Entrance",
+                "POINT_X": "width * .37f",
+                "POINT_y": "height * .60f"
+            },
+            {
+                "POINT_NAME": "hallBottomLeft",
+                "POINT_X": "width * .37f",
+                "POINT_y": "height * .73f"
+            },
+            {
+                "POINT_NAME": "hallTopMid",
+                "POINT_X": "width * .50f",
+                "POINT_y": "height * .30f"
+            },
+            {
+                "POINT_NAME": "hallTopRight",
+                "POINT_X": "width * .73f",
+                "POINT_y": "height * .30f"
+            },
+            {
+                "POINT_NAME": "hallCurvedStart",
+                "POINT_X": "width * .73f",
+                "POINT_y": "height * .36f"
+            },
+            {
+                "POINT_NAME": "hallCurvedMid",
+                "POINT_X": "width * .68F",
+                "POINT_y": "height * .43F"
+            },
+            {
+                "POINT_NAME": "hallBottomRight",
+                "POINT_X": "width * .57f",
+                "POINT_y": "height * .53f"
+            }
+        ],
+        "FLOOR_TRAVERSAL": [
+            {
+                "POINT_NAME": "stairsTopLeft",
+                "POINT_X": "width * .24f",
+                "POINT_y": "height * .25f"
+            },
+            {
+                "POINT_NAME": "elevatorTopLeft",
+                "POINT_X": "width * .21f",
+                "POINT_y": "height * .25f"
+            },
+            {
+                "POINT_NAME": "stairsTopRight",
+                "POINT_X": "width * .885f",
+                "POINT_y": "height * .30f"
+            },
+            {
+                "POINT_NAME": "stairsBottomLeft",
+                "POINT_X": "width * .36f",
+                "POINT_y": "height * .96f"
+            }
+        ],
+        "BATHROOMS": [
+            {
+                "POINT_NAME": "bathroomGirls",
+                "POINT_X": "width * .48f",
+                "POINT_y": "height * .52f"
+            },
+            {
+                "POINT_NAME": "bathroomHandicap",
+                "POINT_X": "width * .78f",
+                "POINT_y": "height * .32f"
+            },
+            {
+                "POINT_NAME": "bathroomMen",
+                "POINT_X": "width * .6f",
+                "POINT_y": "height * .5f"
+            }
+        ],
+        "CLASSROOMS": [
+            {
+                "POINT_NAME": "E200",
+                "POINT_X": "width * .50f",
+                "POINT_Y": "height * .38f"
+            },
+            {
+                "POINT_NAME": "E200A",
+                "POINT_X": "width * .67f",
+                "POINT_Y": "height * .36"
+            },
+            {
+                "POINT_NAME": "E200B",
+                "POINT_X": "width * .67f",
+                "POINT_Y": "height * .36"
+            },
+            {
+                "POINT_NAME": "E200C",
+                "POINT_X": "width * .62f",
+                "POINT_Y": "height * .36"
+            },
+            {
+                "POINT_NAME": "E200D",
+                "POINT_X": "width * .57f",
+                "POINT_Y": "height * .36"
+            },
+            {
+                "POINT_NAME": "E200E",
+                "POINT_X": "width * .555f",
+                "POINT_Y": "height * .36"
+            },
+            {
+                "POINT_NAME": "E200F",
+                "POINT_X": "width * .50f",
+                "POINT_Y": "height * .36"
+            },
+            {
+                "POINT_NAME": "E200G",
+                "POINT_X": "width * .50f",
+                "POINT_Y": "height * .42"
+            },
+            {
+                "POINT_NAME": "E200H",
+                "POINT_X": "width * .50f",
+                "POINT_Y": "height * .44"
+            },
+            {
+                "POINT_NAME": "E200I",
+                "POINT_X": "width * .525f",
+                "POINT_Y": "height * .44"
+            },
+            {
+                "POINT_NAME": "E200J",
+                "POINT_X": "width * .55f",
+                "POINT_Y": "height * .44"
+            },
+            {
+                "POINT_NAME": "E200K",
+                "POINT_X": "width * .58f",
+                "POINT_Y": "height * .44"
+            },
+            {
+                "POINT_NAME": "E202",
+                "POINT_X": "width * .40f",
+                "POINT_Y": "height * .54"
+            },
+            {
+                "POINT_NAME": "E203",
+                "POINT_X": "width * .385f",
+                "POINT_Y": "height * .74"
+            },
+            {
+                "POINT_NAME": "E204",
+                "POINT_X": "width * .385f",
+                "POINT_Y": "height * .84"
+            },
+            {
+                "POINT_NAME": "E205",
+                "POINT_X": "width * .385f",
+                "POINT_Y": "height * .94"
+            },
+            {
+                "POINT_NAME": "E206",
+                "POINT_X": "width * .36f",
+                "POINT_Y": "height * .87"
+            },
+            {
+                "POINT_NAME": "E207",
+                "POINT_X": "width * .27f",
+                "POINT_Y": "height * .60"
+            },
+            {
+                "POINT_NAME": "E207A",
+                "POINT_X": "width * .275f",
+                "POINT_Y": "height * .56"
+            },
+            {
+                "POINT_NAME": "E207B",
+                "POINT_X": "width * .275f",
+                "POINT_Y": "height * .63"
+            },
+            {
+                "POINT_NAME": "E207C",
+                "POINT_X": "width * .36f",
+                "POINT_Y": "height * .76"
+            },
+            {
+                "POINT_NAME": "E207D",
+                "POINT_X": "width * .275f",
+                "POINT_Y": "height * .63"
+            },
+            {
+                "POINT_NAME": "E207E",
+                "POINT_X": "width * .25f",
+                "POINT_Y": "height * .60"
+            },
+            {
+                "POINT_NAME": "E207F",
+                "POINT_X": "width * .26f",
+                "POINT_Y": "height * .54"
+            },
+            {
+                "POINT_NAME": "E207G",
+                "POINT_X": "width * .275f",
+                "POINT_Y": "height * .555"
+            },
+            {
+                "POINT_NAME": "E207U",
+                "POINT_X": "width * .25f",
+                "POINT_Y": "height * .60"
+            },
+            {
+                "POINT_NAME": "E208",
+                "POINT_X": "width * .265f",
+                "POINT_Y": "height * .31"
+            },
+            {
+                "POINT_NAME": "E209",
+                "POINT_X": "width * .265f",
+                "POINT_Y": "height * .31"
+            },
+            {
+                "POINT_NAME": "E210",
+                "POINT_X": "width * .385f",
+                "POINT_Y": "height * .42"
+            },
+            {
+                "POINT_NAME": "E211",
+                "POINT_X": "width * .385f",
+                "POINT_Y": "height * .50"
+            },
+            {
+                "POINT_NAME": "E212",
+                "POINT_X": "width * .42f",
+                "POINT_Y": "height * .52"
+            }
+        ]
+    }
+}

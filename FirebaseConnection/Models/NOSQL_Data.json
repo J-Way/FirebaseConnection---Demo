@@ -1,0 +1,129 @@
+{
+    "CAMPUSES": [
+        "TRAFALGAR",
+        "DAVIS",
+        "HMC"
+    ],
+    "Trafalgar": {
+        "CAMPUS_ID": 1,
+        "CAMPUS_NAME": "TRAFALGAR",
+        "WINGS": [
+            "A-TRAF",
+            "AA-TRAF",
+            "B-TRAF",
+            "C-TRAF",
+            "D-TRAF",
+            "E-TRAF",
+            "G-TRAF",
+            "H-TRAF",
+            "J-TRAF"
+        ]
+    },
+    "WINGS": {
+        "A-TRAF": {
+            "CAMPUS_ID": 1,
+            "WING_ID": 1,
+            "WING_NAME": "A-Wing"
+        },
+        "AA-TRAF": {
+            "CAMPUS_ID": 1,
+            "WING_ID": 2,
+            "WING_NAME": "AA-Wing"
+        },
+        "AS-TRAF": {
+            "CAMPUS_ID": 1,
+            "WING_ID": 3,
+            "WING_NAME": "AS-Wing"
+        },
+        "B-TRAF": {
+            "CAMPUS_ID": 1,
+            "WING_ID": 4,
+            "WING_NAME": "B-Wing"
+        },
+        "C-TRAF": {
+            "CAMPUS_ID": 1,
+            "WING_ID": 5,
+            "WING_NAME": "C-Wing"
+        },
+        "D-TRAF": {
+            "CAMPUS_ID": 1,
+            "WING_ID": 6,
+            "WING_NAME": "D-Wing"
+        },
+        "E-TRAF": {
+            "CAMPUS_ID": 1,
+            "WING_ID": 7,
+            "WING_NAME": "E-Wing",
+            "FLOORS": [
+                {
+                    "FLOOR_LEVEL": 1,
+                    "FLOOR_DATA_ID": 1
+                },
+                {
+                    "FLOOR_LEVEL": 2,
+                    "FLOOR_DATA_ID": 2
+                }
+            ]
+        },
+        "G-TRAF": {
+            "CAMPUS_ID": 1,
+            "WING_ID": 8,
+            "WING_NAME": "G-Wing"
+        },
+        "H-TRAF": {
+            "CAMPUS_ID": 1,
+            "WING_ID": 9,
+            "WING_NAME": "H-Wing"
+        },
+        "J-TRAF": {
+            "CAMPUS_ID": 1,
+            "WING_ID": 10,
+            "WING_NAME": "J-Wing"
+        }
+    },
+    "FLOOR_DATA": {
+        "Placeholder": {
+            "FLOOR_DATA_ID": 1,
+            "FLOOR_IMAGE": "X",
+            "FLOOR_POINTS": "Y"
+        },
+        "TRAE2": {
+            "FLOOR_DATA_ID": 2,
+            "FLOOR_IMAGE": "Images/TRAE2.jpg",
+            "FLOOR_POINTS": "Points/TRAE2.json",
+            "ROOMS": [
+                "E200",
+                "E200A",
+                "E200B",
+                "E200C",
+                "E200D",
+                "E200E",
+                "E200F",
+                "E200G",
+                "E200H",
+                "E200I",
+                "E200J",
+                "E200K",
+                "E202",
+                "E203",
+                "E204",
+                "E205",
+                "E206",
+                "E207",
+                "E207A",
+                "E207B",
+                "E207C",
+                "E207D",
+                "E207E",
+                "E207F",
+                "E207G",
+                "E207U",
+                "E208",
+                "E209",
+                "E210",
+                "E211",
+                "E212"
+            ]
+        }
+    }
+}
